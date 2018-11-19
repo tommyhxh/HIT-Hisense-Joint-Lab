@@ -28,7 +28,7 @@ saasp-deconfig（组件配置）
 
 # 项目截图
 
-##组件部分
+## 组件部分
 - 组件配置菜单
 
 ![menus](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/1.png)
@@ -51,7 +51,7 @@ saasp-deconfig（组件配置）
 
 ![swagger](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/2.png)
 
-##用户权限部分
+## 用户权限部分
 
 - 登录
 
