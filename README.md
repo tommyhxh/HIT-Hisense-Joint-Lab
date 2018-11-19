@@ -7,10 +7,12 @@
 4. 通过菜单配置实现简单的服务编排
 5. 配置模型数据，动态实现页面
 6. 简单的用户、租户以及权限管理
+
 #使用技术
 核心框架：springboot
 分库分表：sharding-jdbc
 ORM框架：mybatis
 数据库连接池：druid或者hikari
 安全框架：Apache Shiro
+
 #demo地址
