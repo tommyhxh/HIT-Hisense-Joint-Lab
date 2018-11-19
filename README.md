@@ -20,14 +20,33 @@
 
 # 框架截图
 
-1.组件配置菜单
+- 组件配置菜单
 
 ![menus](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/1.png)
 
-2.swagger展示
+- swagger展示
 
 ![swagger](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/2.png)
 
-3.登录
+- 登录
 
 ![login](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/3.png)
+
+- 用户管理
+
+![user](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/user.png)
+
+- 角色管理
+
+![role](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/role.png)
+
+- 菜单管理
+
+![menus1](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/menus.png)
+
+- 权限管理
+
+![auth](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/auth.png)
+
+
+
