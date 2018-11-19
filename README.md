@@ -21,10 +21,13 @@
 # 框架截图
 
 1.组件配置菜单
+
 ![menus](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/1.png)
 
 2.swagger展示
+
 ![swagger](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/2.png)
 
 3.登录
+
 ![login](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/3.png)
