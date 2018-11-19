@@ -18,4 +18,13 @@
 4. 数据库连接池：druid或者hikari
 5. 安全框架：Apache Shiro
 
-# demo地址
+# 框架截图
+
+1.组件配置菜单
+https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/1.png
+
+2.swagger展示
+https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/2.png
+
+3.登录
+https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/3.png
