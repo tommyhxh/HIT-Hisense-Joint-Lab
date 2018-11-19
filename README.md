@@ -20,11 +20,11 @@
 
 # 项目结构
 
-saasp-auth（登录认证）
-assap-userserver（系统管理）
-saasp-tenantserver（租户管理）
-saasp-code（代码生成）
-saasp-deconfig（组件配置）
+- saasp-auth（登录认证）
+- assap-userserver（系统管理）
+- saasp-tenantserver（租户管理）
+- saasp-code（代码生成）
+- saasp-deconfig（组件配置）
 
 # 项目截图
 
