@@ -42,7 +42,7 @@
 
 - 菜单管理
 
-![menus](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/menus.png)
+![menus1](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/menus.png)
 
 - 权限管理
 
