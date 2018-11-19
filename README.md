@@ -20,13 +20,30 @@
 
 # 框架截图
 
+##组件部分
 - 组件配置菜单
 
 ![menus](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/1.png)
 
+- 组件基本信息
+
+![base1](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/base1.png)
+
+![base2](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/base2.png)
+
+- 数据模型信息
+
+![demodel](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/demodel.png)
+
+- 脚本和源码生成
+
+![download](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/download.png)
+
 - swagger展示
 
 ![swagger](https://github.com/tommyhxh/HIT-Hisense-Joint-Lab/blob/master/doc/2.png)
+
+##用户权限部分
 
 - 登录
 
